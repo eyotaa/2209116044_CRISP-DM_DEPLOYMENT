@@ -1,0 +1,14 @@
+streamlit
+pandas
+plotly-express
+matplotlib
+seaborn
+joblib
+numpy
+scikit-learn
+altair
+streamlit-option-menu
+alpha_vantage
+yfinance
+stocknews
+ta
